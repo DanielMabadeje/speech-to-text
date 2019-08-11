@@ -1,0 +1,23 @@
+  html{
+            font-size: 10px;
+        }
+        body{
+            background: #ffc600;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 200;
+            font-size: 20px;
+            text-align: center;
+        }
+        .words{
+            max-width: 500px;
+            margin: 50px auto;
+            background: white;
+            border-radius: 5px;
+        }
+        p{
+            background: lightblue;
+        }
+        .white-o{
+            background: white;
+            color: #000000 !important;
+        }
